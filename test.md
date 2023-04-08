@@ -1,1 +1,1 @@
-# [`xieite`](https://github.com/Eczbek/xieite/tree/main/README.md)`::`[`algorithms`](https://github.com/Eczbek/xieite/tree/main/docs/algorithms.md)`::`[`all`](https://github.com/Eczbek/xieite/tree/main/docs/algorithms/all.md)
+# `xieite::algorithms::all`
