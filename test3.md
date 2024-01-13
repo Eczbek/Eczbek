@@ -1,4 +1,4 @@
 ```mermaid
   erDiagram
-      big_integer ||--o algorithm
+      BIG_INTEGER ||--o ALGORITHM
 ```
