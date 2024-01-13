@@ -1,4 +1,4 @@
 ```mermaid
   erDiagram
-      BIG_INTEGER ||--o ALGORITHM : test
+      BIG-INTEGER ||--o ALGORITHM : test
 ```
