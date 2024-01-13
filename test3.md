@@ -1,4 +1,4 @@
 ```mermaid
   erDiagram
-      big_integer ||--o{ algorithm : uses
+      math/big_integer ||--o{ algorithm : uses
 ```
